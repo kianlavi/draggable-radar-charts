@@ -8,7 +8,6 @@ http://bl.ocks.org/tpreusse/2bc99d74a461b8c0acb1
 
 viva argentina
 
----
 references:
 
 http://d3js.org/
